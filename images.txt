@@ -1,5 +1,1 @@
 jumpserver/jms-core:v5.1.1
-jumpserver/jms-web:v5.1.1
-jumpserver/jms-koko:v5.1.1
-jumpserver/jms-chen:v5.1.1
-jumpserver/jms-celery:v5.1.1
