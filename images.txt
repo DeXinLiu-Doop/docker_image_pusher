@@ -1,1 +1,5 @@
-registry.k8s.io/sig-storage/nfs-subdir-external-provisioner:v4.0.2
+jumpserver/jms-core:v5.1.1
+jumpserver/jms-web:v5.1.1
+jumpserver/jms-koko:v5.1.1
+jumpserver/jms-chen:v5.1.1
+jumpserver/jms-celery:v5.1.1
