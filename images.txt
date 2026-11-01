@@ -1,1 +1,4 @@
-jumpserver/jms-core:v5.1.1
+jumpserver/core:v5.1.1-ce
+jumpserver/web:v5.1.1-ce
+jumpserver/koko:v5.1.1-ce
+jumpserver/chen:v5.1.1-ce
