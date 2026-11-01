@@ -1,5 +1,5 @@
-jumpserver/magnus:v5.1.1
-jumpserver/razor:v5.1.1
-jumpserver/video:v5.1.1
-jumpserver/facelive:v5.1.1
-jumpserver/nec:v5.1.1
+jumpserver/magnus:v5.1.1-ce
+jumpserver/razor:v5.1.1-ce
+jumpserver/video:v5.1.1-ce
+jumpserver/facelive:v5.1.1-ce
+jumpserver/nec:v5.1.1-ce
